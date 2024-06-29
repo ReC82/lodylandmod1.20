@@ -1,0 +1,25 @@
+{
+    "item.lodylandmod.sapphire" : "Sapphire",
+    "item.lodylandmod.raw_sapphire" : "Raw Sapphire",
+
+    "item.tutorialmod.lava_detector": "lava Detector",
+    "item.tutorialmod.charcoal_detector": "Charcoal Detector",
+    "item.tutorialmod.iron_detector": "Iron Detector",
+    "item.tutorialmod.magnetic_coil": "Magnetic Coil",
+    "item.tutorialmod.iron_stick": "Iron Stick",
+
+    "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables iron underground!",
+
+    "item.tutorialmod.strawberry": "Strawberry",
+
+    "item.tutorialmod.pine_cone": "Pine Cone",
+
+    "block.lodylandmod.sapphire_ore": "Sapphire Ore",
+    "block.lodylandmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+    "block.lodylandmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+    "block.lodylandmod.nether_sapphire_ore": "Nether Sapphire Ore",
+
+    "block.lodylandmod.sound_block": "Sound Block",
+
+    "creativetab.lodytab": "Lody Mod Tab"
+}
